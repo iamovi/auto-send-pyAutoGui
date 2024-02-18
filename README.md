@@ -8,7 +8,7 @@ Before you begin, ensure you have the following installed:
 ---
 
 ```python
-pip install pyautogui
+pip3 install pyautogui
 ```
 ### to run
 ```python
